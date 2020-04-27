@@ -1,0 +1,9 @@
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\doviz_ofisi\doviz_ofisi\bin\Debug\doviz_ofisi.exe.config
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\doviz_ofisi\doviz_ofisi\bin\Debug\doviz_ofisi.exe
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\doviz_ofisi\doviz_ofisi\bin\Debug\doviz_ofisi.pdb
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\doviz_ofisi\doviz_ofisi\obj\Debug\doviz_ofisi.csprojAssemblyReference.cache
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\doviz_ofisi\doviz_ofisi\obj\Debug\doviz_ofisi.Form1.resources
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\doviz_ofisi\doviz_ofisi\obj\Debug\doviz_ofisi.Properties.Resources.resources
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\doviz_ofisi\doviz_ofisi\obj\Debug\doviz_ofisi.csproj.GenerateResource.cache
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\doviz_ofisi\doviz_ofisi\obj\Debug\doviz_ofisi.exe
+C:\Users\poyra\OneDrive\Masaüstü\C# Çalışmalar\Udemy Çalışma\doviz_ofisi\doviz_ofisi\obj\Debug\doviz_ofisi.pdb
